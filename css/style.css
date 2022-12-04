@@ -1,0 +1,43 @@
+body {
+    
+}
+
+#banner {
+    width: 100%;
+}
+
+.main-title {
+    padding-left: 20px;
+}
+
+.center-title {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.items{
+    font-style: italic;
+}
+
+.about {
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+.benefits {
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+#image-benefits {
+    width: 50%;
+}
